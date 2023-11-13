@@ -17,7 +17,7 @@ public class KadanesAlgo {
         System.out.println("Maximum Subarray Sum = " + maxSum);
     }
     public static void main(String[] args) {
-        int[] arr = {-1,-2,6,-1,3};
+        int[] arr = {-3,-21,-6,-5,-3};
         kadanes_algorithm(arr);
     }
 }
